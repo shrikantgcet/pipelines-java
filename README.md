@@ -1,4 +1,4 @@
-https://mocatad.visualstudio.com/DNZ-269/_apis/build/status/shrikantgcet.pipelines-java?branchName=master)](https://mocatad.visualstudio.com/DNZ-269/_build/latest?definitionId=150&branchName=master)
+[![Build Status](https://mocatad.visualstudio.com/DNZ-269/_apis/build/status/shrikantgcet.pipelines-java?branchName=master)](https://mocatad.visualstudio.com/DNZ-269/_build/latest?definitionId=150&branchName=master)
 
 # Contributing
 
